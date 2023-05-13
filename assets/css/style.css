@@ -515,6 +515,7 @@ button,
     background: #f7f7f7; 
     width: 308px;
     height: 385px;
+    object-fit: contain;
   }
 
 .secondary-img {
