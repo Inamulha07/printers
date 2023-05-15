@@ -233,12 +233,9 @@ input[type="number"] {
   width: 100%;
   height: 100%;
   z-index: 1;
-  background-color: rgba(0, 0, 0, 0.2);
 }
 
-.overlay-tools:before {
-  background-color: rgba(7, 28, 31, 0.5);
-}
+
 
 .overlay-furniture:before {
   background-color: rgba(0, 35, 77, 0.5);
@@ -3105,7 +3102,7 @@ blockquote {
 }
 
 .action-item {
-  margin-top: 48px;
+  margin-top: 10px;
 }
 
 .promo-title {
