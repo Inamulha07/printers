@@ -133,7 +133,7 @@ iframe {
   -ms-border-radius: var(--btn-primary-border-radius);
   -webkit-border-radius: var(--btn-primary-border-radius);
   border-radius: var(--btn-primary-border-radius);
-  color: var(--btn-primary-color);
+  color: #000;
   border: 1px solid var(--btn-primary-border-color);
   background-color: var(--btn-primary-background-color);
   font-weight: var(--btn-primary-font-weight);
