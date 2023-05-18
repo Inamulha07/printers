@@ -3077,7 +3077,7 @@ blockquote {
   font-size: 18px;
   line-height: 1.8;
   letter-spacing: 0.5px;
-  color: var(--primary-color);
+  color: var(--body-color);
   margin-bottom: 8px;
 }
 
